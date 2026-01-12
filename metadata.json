@@ -1,7 +1,0 @@
-{
-  "name": "XRayenChat",
-  "description": "A powerful AI chat application with Deep Search, Advanced Thinking mode, and real-time file processing, featuring a ChatGPT-inspired interface.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
